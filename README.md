@@ -58,7 +58,7 @@ Icons: Fontawesome, Flaticon, Themify Icons
 
 Mail Integration: Ajax Mailchimp
 
-Other Libraries: HTML5, CSS3, SCSS, JavaScript
+Other Libraries: HTML5, CSS3, JavaScript
 
 
 Project Structure
@@ -67,9 +67,9 @@ In the Box:
 
 All demo images
 
-10 HTML files
+9 HTML files
 
-CSS and SCSS files
+CSS files
 
 JavaScript source files
 
@@ -83,4 +83,4 @@ Library and Plugin Files
 
 Learning Outcomes
 
-Creating WebCraft provided insights into accessibility features, particularly in implementing sound effects for screen reader support on headings, enhancing the website's usability for visually impaired user's 
+Creating WebCraft provided insights into accessibility features, particularly in implementing sound effects for screen reader support on headings, enhancing the website's usability for visually impaired users 
