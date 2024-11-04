@@ -1,7 +1,7 @@
 
 
 WebCraft - Educational Platform for People with Special Abilities
-[Add a subheading](https://github.com/user-attachments/assets/73c73e43-ddd9-4baa-987b-2fa115ad8390)
+![Add a subheading](https://github.com/user-attachments/assets/73c73e43-ddd9-4baa-987b-2fa115ad8390)
 
 Website Link :- https://webcraft0-xsqv.vercel.app/?vercelToolbarCode=lu8E7mg2d0y47pb
 
